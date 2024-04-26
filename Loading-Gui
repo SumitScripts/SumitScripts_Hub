@@ -69,7 +69,6 @@ function animateLoadingBar()
   wait(0.5)
   gui:Destroy()
 
--- Put your script here
 loadstring(game:HttpGet("https://raw.githubusercontent.com/SumitScripts/SumitScripts-Hub/main/Gamesloader"))()
 end
 
