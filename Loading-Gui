@@ -70,7 +70,7 @@ function animateLoadingBar()
   gui:Destroy()
 
 -- Put your script here
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SumitScripts/SumitScripts-Hub/main/Gamesloader"))()
 end
 
 -- Function to update the loading progress
