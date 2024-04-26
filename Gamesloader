@@ -1,0 +1,57 @@
+-- Made by SumitScripts
+-- Version - 1.0 beta
+
+-- Notification
+local notif = loadstring(game:HttpGet("https://raw.githubusercontent.com/insanedude59/notiflib/main/main"))()
+
+notif:Notification("Wellcome","There All Scripts Were Supported In Loader","GothamSemibold","Gotham",5)
+
+-- Loader
+local CoastingLibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/GhostDuckyy/UI-Libraries/main/Coasting%20Ui%20Lib/source.lua"))()
+
+local Tab = CoastingLibrary:CreateTab("SumitScripts Loader - V1.0 (Beta)")
+local Section = SumitScripts Loader - V1.0 (Beta)Tab:CreateSection("Tab 1")
+local Section2 = SumitScripts Loader - V1.0 (Beta)Tab:CreateSection("Tab 2")
+
+Section:CreateButton("Project Smash", function()
+notif:Notification("SumitScripts Hub","Project Smash Loaded | Report me bugs","GothamSemibold","Gotham",5)
+loadstring(Game:HttpGet("https://raw.githubusercontent.com/SumitScripts/Lil/main/Source"))()
+   print("Boo!")    
+end)
+
+Section:CreateButton("Blade Ball", function()
+-- SumitScriptsHub V7 Projecter
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SumitScripts/Blade-ball/main/SumitScriptsHub-V7-Projecter"))();
+   print("Boo!")    
+end)
+
+Section:CreateButton("Hide And Seek Extreme", function()
+notif:Notification("SumitScripts Hub","Hide And Seek Loaded | Report me bugs","GothamSemibold","Gotham",5)
+loadstring(game:HttpGet("https://pastebin.com/raw/za4pW43p"))()
+   print("Boo!")    
+end)
+
+Section:CreateButton("The test Alpha", function()
+notif:Notification("SumitScripts Hub","The test alpha Loaded | Report me bugs","GothamSemibold","Gotham",5)
+loadstring(Game:HttpGet("https://raw.githubusercontent.com/SumitScripts/The-test-Alpha/main/Source.lua"))()
+   print("Boo!")
+end)
+
+Section:CreateButton("Blade Soccer", function()
+loadstring(game:HttpGet("https://pastebin.com/raw/u12XQKYz"))()
+   print("Boo!")
+end)
+
+Section2:CreateButton("Credits Notification", function()
+notif:Notification("Credits","Script By SumitScripts + Dreamboy | development team","GothamSemibold","Gotham",5)
+   print("Boo!")
+end)
+
+Section2:CreateButton("rtx loader", function()
+--[[
+	WARNING: Heads up! This script has not been verified by ScriptBlox. Use at your own risk!
+]]
+-- Rtx Loader By SumitScripts
+loadstring(game:HttpGet("https://pastebin.com/raw/dAPRembd"))()
+   print("Boo!")
+end)
