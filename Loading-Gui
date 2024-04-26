@@ -79,4 +79,4 @@ function updateProgress(progress)
 end
 
 -- Start the loading animation
-spawn(animateLoadingBar)
+spawn("animateLoadingBar")
