@@ -1,8 +1,8 @@
 # SumitScripts-Hub
-We Released Version 1.0 (Beta)
-It Was 5 Games And We Update Soon...
+We Released Version 2.2
+it has 10 Games 🎯 More Soon
 
-#### SumitScripts Hub v1.0 (beta)
+#### SumitScripts Hub v2.2
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/SumitScripts/SumitScripts-Hub/main/UpdateLoader"))()
+Dont Done
 ```
